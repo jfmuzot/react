@@ -1,0 +1,122 @@
+body{
+    background-color: #cfcfcf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width:  50px;
+    border-radius: 50px;
+    margin-right: 10px;
+    float: left;
+}
+.usuario{
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    color:whitesmoke;
+    float: left;
+    font-size: 20px;
+}
+.verificar{
+    color:whitesmoke;
+    opacity: 50%;
+}
+.subtitulo{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.content{
+    color:#ecf2f8 ;
+    opacity: 70%;
+    font-size: 15px;
+}
+.usuario2{
+    color: #19212e;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    float: left;
+    font-size: 20px;
+}
+.verificar2{
+    color: #19212e;
+    opacity: 50%;
+}
+.subtitulo2{
+    color: #19212e;
+    font-weight:  bold;
+    float: left;
+    font-size: 18px;
+}
+.content2{
+    color: #19212e;
+    opacity: 70%;
+    font-size: 15px;
+}
+.contenedor{
+    display: flex;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#testimonio_contenedor{
+    display: flex;
+    flex-direction: column;
+}
+
+#testimonio_upper{
+    display: flex;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+#testimonio_lower{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#contenedor1{
+    background-color:#7541c8;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 550px;
+}
+#contenedor2{
+    background-color:#48556a;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 305px;
+    height: 300px;
+
+}
+#contenedor3{
+    background-color: #19212e;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 550px;
+}
+#contenedor4{
+   background-color:#ffff; 
+   border-radius: 10px; 
+   margin-right: 20px;
+   padding: 10px;
+   width: 300px;
+
+}
+#contenedor5{
+    background-color:#ecf2f8;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 220px;
+}
